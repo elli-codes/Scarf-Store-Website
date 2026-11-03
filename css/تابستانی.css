@@ -1,0 +1,26 @@
+body{
+    background-image: url("../summer image/wall.jpg");
+    background-size: cover; direction: rtl;
+}
+
+h1{
+    text-align: center;
+    color: goldenrod;
+    border: 2px dotted orange;
+    font-size: xx-large;
+    background:rgba(225,225,.225,0.2);
+
+}
+h5{
+    color: red;
+    text-align: center;
+    margin-right: 20px;
+    font-weight: bold;
+}
+iframe{
+    width:720px;
+    height:1080px;
+    margin-right: 400px ;
+    border: 2px solid orange;
+
+}

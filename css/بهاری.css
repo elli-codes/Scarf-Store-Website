@@ -1,0 +1,48 @@
+body{
+
+    font-family:"Arial";
+    font-size: 15px;
+    background-image: url("../spring image/wall3.jpg");
+
+}
+h1{
+    text-align: center;
+    color: teal;
+border: 2px dotted lime;
+    font-size: xx-large;
+    background:rgba(225,225,.225,0.2);
+}
+.main{
+    width:1400px;
+    height: auto;
+    margin: 50px auto;
+
+}
+.gallery{
+    width: 600px;
+    height: auto;
+    float: left;
+    position: relative;
+padding-left: 70px;
+
+}
+img{
+    width: 600px;
+    height: 1000px;
+    border-radius: 30px;
+    border: 2px dotted lime;
+
+}
+.des{
+    position:absolute ;
+    bottom: 0;
+    left: 0;
+   width: 500px;
+    height: 50px;
+    background: rgba(225,225,225,0.2);
+text-align: center;
+    padding-top: 20px;
+    color:green;
+    margin-left:100px  ;
+    border-radius: 20px;
+}
